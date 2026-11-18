@@ -5,7 +5,7 @@
 
 * **Executable Kaggle Environment:** [Run / View Live Notebook on Kaggle](https://www.kaggle.com/code/ankitbhamu0011/cv-project)
 * **GitHub Source & Weights:** [https://github.com/ankitbhamu8769/Plantdisease-classification](https://github.com/ankitbhamu8769/Plantdisease-classification)
-# Plant Disease Classification with Explainable AI (Grad-CAM++ & LIME)
+
 
 A deep learning computer vision pipeline for automated plant leaf disease diagnosis across **38 crop-disease categories** from the PlantVillage dataset. Alongside high-accuracy classification (**99.8% test accuracy**), the system integrates **Grad-CAM++** and **LIME** visual explainability to highlight the exact leaf lesions driving model predictions.
 
