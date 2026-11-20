@@ -1,7 +1,6 @@
 # Plant Disease Classification with Explainable AI (Grad-CAM++ & LIME)
 
 [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ankitbhamu0011/cv-project)
-(https://colab.research.google.com/github/ankitbhamu8769/Plantdisease-classification/blob/main/notebooks/cv-project.ipynb)
 
 * **Executable Kaggle Environment:** [Run / View Live Notebook on Kaggle](https://www.kaggle.com/code/ankitbhamu0011/cv-project)
 * **GitHub Source & Weights:** [https://github.com/ankitbhamu8769/Plantdisease-classification](https://github.com/ankitbhamu8769/Plantdisease-classification)
